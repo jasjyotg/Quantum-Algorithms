@@ -34,7 +34,4 @@ This notebook implements **Shor’s Algorithm** using Qiskit, demonstrating how 
 - Repeated the entire algorithm with new values of `a` until successful.
 - Printed results and tracked how many attempts were made.
 
----
-
-## 📷 Example Output
 
