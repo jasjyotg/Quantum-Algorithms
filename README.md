@@ -20,7 +20,7 @@ Shor’s algorithm : factor large integers exponentially faster than classical a
 
 ---
 
-## 🔍 Grover’s Algorithm – Quantum Search
+##  Grover’s Algorithm – Quantum Search
 
 Grover’s algorithm : find a marked item in an unsorted database with **quadratic speedup** over classical algorithms.
 
